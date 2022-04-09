@@ -2,7 +2,7 @@
 
 This is a portfolio website created with React js.
 
-rakesh87550.github.io/react_portfolio/
+Demo : rakesh87550.github.io/react_portfolio/
 
 ![1](https://user-images.githubusercontent.com/49247268/162576280-0c9cfaa6-c2ee-45a3-82dd-1ce8d1aba5ed.png)
 ![2](https://user-images.githubusercontent.com/49247268/162576282-e5453a30-6f1d-4a8a-8827-280b517735ef.png)
